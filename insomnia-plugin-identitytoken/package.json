@@ -1,0 +1,22 @@
+{
+  "name": "insomnia-plugin-identitytoken",
+  "version": "1.1.0",
+  "author": "tostringtheory",
+  "description": "Adds a template tag for use in Insomnia, to access a request's Identity token",
+  "license": "MIT",
+  "repository": "https://github.com/SamEst01/insomnia-plugin-identitytoken",
+  "bugs": {
+    "url": "https://github.com/SamEst01/insomnia-plugin-identitytoken"
+  },
+  "main": "index.js",
+  "insomnia": {
+    "name": "identitytoken",
+    "description": "Access the Identity token of other requests"
+  },
+  "dependencies": {},
+  "keywords": [
+    "insomnia",
+    "plugin",
+    "oauth"
+  ]
+}
